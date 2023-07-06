@@ -1,0 +1,50 @@
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background: linear-gradient(
+    to right,
+    #000080,
+    #0000cd,
+    #0000ff,
+    #00008b,
+    #191970
+  );
+}
+table,tr,td{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+  padding: 7px;
+  border: 1px solid #08088a;
+  background-color: #ffffff;
+}
+header{
+  text-align: center;
+  color: #ffffff;
+}
+.title{
+  text-align: center;
+}
+#submit{
+  margin-left: 46%;
+  margin-right: 50%;
+}
+.tag{
+  width: 380px;
+}
+#result{
+  color: #ffffff;
+  text-align: center;
+  font-family: Verdana;
+  font-weight: bold;
+}
+.valid {
+  border: green 2px solid;
+  color: black;
+  background-color: rgb(226, 255, 184);
+}
+.invalid {
+  border: red solid 2px;
+  color: black;
+  background-color: rgb(255, 171, 171);
+}

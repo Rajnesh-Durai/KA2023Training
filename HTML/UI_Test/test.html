@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="./test27.css" rel="stylesheet">
+    <script src="./testjs.js"></script>
+    <title>One-Stop Mobile Accessories</title>
+  </head>
+  <body>
+    <header><h1 class="heading">Online Tour Package Reservation</h1></header>
+    <table>
+        <tr>
+            <td><label>Customer Name</label></td>
+            <td><input type="text" id="name" name="name" onblur="validateName()" required></td>
+        </tr>
+        <tr>
+                <td><label>Mobile Number</label></td>
+                <td><input type="text" id="num" name="mobileNumber" maxlength="10" onblur="validateNum()" required></td>
+        </tr>
+        <tr>
+            <td><label>Aadhar Number</label></td>
+            <td><input type="text" id="aadhar" name="aadharNumber" maxlength="12" onblur="validateAadhar()" required></td>
+        </tr>
+        <tr>
+            <td><label>Date of Check-in</label></td>
+            <td><input type="date" id="date" name="dateOfCheckin" required></td>
+        </tr>
+        <tr>
+            <td>
+                <label>Package type</label></td>
+                <td>
+                    <select id="package">
+                        <option id="option1" class="order_package" value="11000">1 Night & 2 Days</option>
+                        <option id="option2" class="order_package" value="20000">2 Night & 3 Days</option>
+                        <option id="option3" class="order_package" value="29000">3 Night & 4 Days</option>
+                        <option id="option4" class="order_package" value="37000">4 Night & 5 Days</option>
+                        <option id="option5" class="order_package" value="45000">5 Night & 6 Days</option>
+                    </select>
+            </td>
+        </tr>
+        <tr>
+            <td><label>Number of Adults</label></td>
+            <td><input type="text" name="adults" id="adult" required></td>
+        </tr>
+        <tr>
+            <td><label>Number of Children</label></td>
+            <td><input type="text" name="children" id="child" required></td>
+        </tr>
+        <tr>
+            <td><label>Payment Mode</label></td>
+                <td><input type="radio"id="cc" name="paymentMode" required><label for="cc">CC</label>
+                <input type="radio" id="dc" name="paymentMode" required><label for="dc">DC</label></td>
+            
+        </tr>
+        <tr>
+            <td><label>Card Number</label></td>
+            <td><input type="text" name="cardNumber" maxlength="16" onblur="validateCard()"></td>
+        </tr>
+        <tr>
+            <td><label>CVV Number</label></td>
+            <td><input type="text" name="cvvNumber" maxlength="3" onblur="validateccv()"></td>
+        </tr>
+        <tr class="but">
+            <td colspan="2">
+                <button onclick="calculate1()">Pay</button>
+                <input type="reset" value="Clear">
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <div id="result">
+
+                </div>
+            </td>
+        </tr>
+    
+    </table>
+    <p id="title">Tour Package Details</p>
+        <div >
+            
+        <table class="table_2" >
+            
+            <tr>
+                <td><span>Package Type</span></td>
+                <td><span>Change Per Type(in Rs.)</span></td>
+                <td><span>No of Visitors Allowed</span></td>
+                <td><span>Extra 1 Person Charges(in Rs.)</span></td>
+            </tr>
+            <tr>
+                <td><span> Night& 2 Days</span></td>
+                <td><span>11,000</span></td>
+                <td><span>2</p></span>
+                <td><span>3,000</span></td>
+            </tr>
+            <tr>
+                <td><span>2 Night& 3 Days</span></td>
+                <td><span>20,000</span></td>
+                <td><span>3</span></td>
+                <td><span>3,500</span></td>
+            </tr>
+            <tr>
+                <td><span>3 Night& 4 Days</span></td>
+                <td><span>29,000</span></td>
+                <td><span>3</span></td>
+                <td><span>3,500</span></td>
+            </tr>
+            <tr>
+                <td><span>4 Night& 5 Days</span></td>
+                <td><span>37,000</span></td>
+                <td><span>4</span></td>
+                <td><span>4,000</span></td>
+            </tr>
+            <tr>
+                <td><span>5 Night& 6 Days</span></td>
+                <td><span>45,000</span></td>
+                <td><span>4</span></td>
+                <td><span>4,000</span></td>
+            </tr>
+        </table>
+    </div>
+  </body>
+</html>
