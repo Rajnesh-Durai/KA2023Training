@@ -1,0 +1,77 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.menu-bar{
+    width:30px ;
+    height: 30px;
+    cursor: pointer;
+}
+.gicon{
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+.nav{
+    margin-top: 6px;
+    max-width: 100%;
+    height: 30px;
+    display: flex; 
+    float: right;
+    align-items: center;
+    background-color: blue;
+    margin-right: 5px;
+}
+li{
+    display: inline-block;
+    padding-left: 10px;    
+}
+a{
+    text-decoration: none;
+    font-size: medium;
+    display: flex;
+}
+.sectiom{
+    padding-top: 20vh;
+    height: 90vh;
+    width: 100%;
+    
+}
+.gg{
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.google{
+    width: 40%;
+    height: 40%;
+}
+.gs{
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.search-bar{
+    height: 30px;
+    width: 30%;
+    border-radius: 25px;
+    border-color: black;
+}
+.voice{
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+.btn{
+    margin-top: 6px
+    padding-left: 0%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.footy{
+    margin-top: 36px;
+    height: 5vh;
+    width: 100%;
+}

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Registration</title>
+    </head>
+    <body style="padding-left: 20%;width:900px;max-width: 1120px;background-color: mediumblue;">
+        <header>
+            <h1 style="background-color: darkgoldenrod;text-align: center;">Zoho Corporation</h1>
+        </header>
+        <div style="width:900px;max-width: 1120px;">
+        <fieldset style="width: 870px;max-width: 1120px;background-color: darkgoldenrod;">
+            <h2 style="text-align: center;">Registration</h2>
+            <form>
+            <div style="text-align: center;font-size: large;">
+                <label for="use">Name :    </label>
+                <input type="text" id="use" required>
+            </div><br><br>
+            <div style="text-align: center;font-size: large;">
+                <label for="gmail">Email-ID : </label>
+                <input type="email" id="gmail" required>
+            </div><br><br>
+            <div style="text-align: center;font-size: large;"><label>Gender: </label>
+            <input type="radio" id="m" name="gender"><label for="m">Male</label>
+            <input type="radio" id="f" name="gender"><label for="f">Female</label>
+            </div><br><br>
+            <div style="text-align: center;font-size: large;">
+                <label for="batch">Batch :     </label>
+                <input list="year" id="batch"required>
+                <datalist id="year">
+                    <option value="2023"></option>
+                    <option value="2022"></option>
+                    <option value="2021"></option>
+                    <option value="2020"></option>
+                </datalist>
+            </div><br><br>
+            <div style="text-align: center;font-size: large;">
+                <label for="salary">Salary :  </label>
+                <input type="number" id="salary" placeholder="LPA">
+            </div><br><br>
+            <div style="text-align: center;font-size: large;">
+                <label for="locat">Location :  </label>
+                <input list="locati" id="locat" required>
+                <datalist id="locati">
+                    <option value="Chennai"></option>
+                    <option value="Tenkasi"></option>
+                    <option value="Madurai"></option>
+                    <option value="Coimbatore"></option>
+                </datalist>
+            </div><br><br>
+            <div style="text-align: center;font-size: large;">
+                <label for="skill">Skill :  </label>
+                <input type="text" id="skill" placeholder="Eg:C,C++,JAVA">
+            </div><br><br>
+            <div style="background-color: black;display:flex;float: right;">
+            <button type="button" style="display: flex;align-items: center;">Submit</button>
+            </div>
+        </form>
+    
+        </fieldset>
+    </div>
+    </body>
+</html>
