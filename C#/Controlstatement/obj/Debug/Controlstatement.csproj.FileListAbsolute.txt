@@ -1,0 +1,8 @@
+D:\C#.NET PROGRAMS\Controlstatement\bin\Debug\Controlstatement.pdb
+D:\C#.NET PROGRAMS\Controlstatement\obj\Debug\Controlstatement.csproj.AssemblyReference.cache
+D:\C#.NET PROGRAMS\Controlstatement\obj\Debug\Controlstatement.csproj.CoreCompileInputs.cache
+D:\C#.NET PROGRAMS\Controlstatement\obj\Debug\Controlstatement.pdb
+D:\C#.NET PROGRAMS\Controlstatement\bin\Debug\Controlstatement.exe.config
+D:\C#.NET PROGRAMS\Controlstatement\bin\Debug\Controlstatement.exe
+D:\C#.NET PROGRAMS\Controlstatement\obj\Debug\Controlstatement.csproj.SuggestedBindingRedirects.cache
+D:\C#.NET PROGRAMS\Controlstatement\obj\Debug\Controlstatement.exe

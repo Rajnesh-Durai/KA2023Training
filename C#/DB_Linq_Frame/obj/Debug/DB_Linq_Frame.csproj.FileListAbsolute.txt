@@ -1,0 +1,8 @@
+D:\C#.NET PROGRAMS\DB_Linq_Frame\bin\Debug\DB_Linq_Frame.exe.config
+D:\C#.NET PROGRAMS\DB_Linq_Frame\bin\Debug\DB_Linq_Frame.exe
+D:\C#.NET PROGRAMS\DB_Linq_Frame\bin\Debug\DB_Linq_Frame.pdb
+D:\C#.NET PROGRAMS\DB_Linq_Frame\obj\Debug\DB_Linq_Frame.csproj.AssemblyReference.cache
+D:\C#.NET PROGRAMS\DB_Linq_Frame\obj\Debug\DB_Linq_Frame.csproj.SuggestedBindingRedirects.cache
+D:\C#.NET PROGRAMS\DB_Linq_Frame\obj\Debug\DB_Linq_Frame.csproj.CoreCompileInputs.cache
+D:\C#.NET PROGRAMS\DB_Linq_Frame\obj\Debug\DB_Linq_Frame.exe
+D:\C#.NET PROGRAMS\DB_Linq_Frame\obj\Debug\DB_Linq_Frame.pdb

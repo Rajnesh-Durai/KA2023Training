@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="student" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=LAPTOP-4J9P4KK5\SQLEXPRESS;Initial Catalog=student;Integrated Security=True" SettingsObjectName="DB_Linq_Frame.Properties.Settings" SettingsPropertyName="studentConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.stud_table1" Member="stud_table1s">
+    <Type Name="stud_table1">
+      <Column Name="rollno" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="stud_name" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Customer_Nodes" Member="Customer_Nodes">
+    <Type Name="Customer_Node">
+      <Column Name="node_id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Region_id" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Customer_id" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Region_Customer_Node" Member="Region" ThisKey="Region_id" OtherKey="Region_id" Type="Region" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Regions" Member="Regions">
+    <Type Name="Region">
+      <Column Name="Region_id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Region" Member="Region1" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Association Name="Region_Customer_Node" Member="Customer_Nodes" ThisKey="Region_id" OtherKey="Region_id" Type="Customer_Node" />
+    </Type>
+  </Table>
+</Database>

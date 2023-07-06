@@ -1,0 +1,15 @@
+D:\C#.NET PROGRAMS\FileCreation\bin\Debug\net6.0\FileCreation.exe
+D:\C#.NET PROGRAMS\FileCreation\bin\Debug\net6.0\FileCreation.deps.json
+D:\C#.NET PROGRAMS\FileCreation\bin\Debug\net6.0\FileCreation.runtimeconfig.json
+D:\C#.NET PROGRAMS\FileCreation\bin\Debug\net6.0\FileCreation.dll
+D:\C#.NET PROGRAMS\FileCreation\bin\Debug\net6.0\FileCreation.pdb
+D:\C#.NET PROGRAMS\FileCreation\obj\Debug\net6.0\FileCreation.csproj.AssemblyReference.cache
+D:\C#.NET PROGRAMS\FileCreation\obj\Debug\net6.0\FileCreation.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#.NET PROGRAMS\FileCreation\obj\Debug\net6.0\FileCreation.AssemblyInfoInputs.cache
+D:\C#.NET PROGRAMS\FileCreation\obj\Debug\net6.0\FileCreation.AssemblyInfo.cs
+D:\C#.NET PROGRAMS\FileCreation\obj\Debug\net6.0\FileCreation.csproj.CoreCompileInputs.cache
+D:\C#.NET PROGRAMS\FileCreation\obj\Debug\net6.0\FileCreation.dll
+D:\C#.NET PROGRAMS\FileCreation\obj\Debug\net6.0\refint\FileCreation.dll
+D:\C#.NET PROGRAMS\FileCreation\obj\Debug\net6.0\FileCreation.pdb
+D:\C#.NET PROGRAMS\FileCreation\obj\Debug\net6.0\FileCreation.genruntimeconfig.cache
+D:\C#.NET PROGRAMS\FileCreation\obj\Debug\net6.0\ref\FileCreation.dll
