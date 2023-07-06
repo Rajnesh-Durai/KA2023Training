@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "kH1n1kBqg7g2GR4a2aUHe7qcpRuB7EEw3IZ1LJO1i7Z9S2n6sJzvwpEusc0IWYyxzav9d7QLI0wcrnzXA79KpA==",
+  "success": true,
+  "projectFilePath": "D:\\C#.NET PROGRAMS\\API_Class1_Soln1\\API_Class1\\API_Class1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rajesh Rajinish\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.4\\microsoft.aspnetcore.openapi.7.0.4.nupkg.sha512",
+    "C:\\Users\\Rajesh Rajinish\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Rajesh Rajinish\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Rajesh Rajinish\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Rajesh Rajinish\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Rajesh Rajinish\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Rajesh Rajinish\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
