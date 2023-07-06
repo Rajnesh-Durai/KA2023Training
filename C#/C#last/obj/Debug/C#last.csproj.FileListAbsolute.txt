@@ -1,0 +1,8 @@
+D:\C#.NET PROGRAMS\C#last\bin\Debug\C#last.exe.config
+D:\C#.NET PROGRAMS\C#last\bin\Debug\C#last.exe
+D:\C#.NET PROGRAMS\C#last\bin\Debug\C#last.pdb
+D:\C#.NET PROGRAMS\C#last\obj\Debug\C#last.csproj.AssemblyReference.cache
+D:\C#.NET PROGRAMS\C#last\obj\Debug\C#last.csproj.SuggestedBindingRedirects.cache
+D:\C#.NET PROGRAMS\C#last\obj\Debug\C#last.csproj.CoreCompileInputs.cache
+D:\C#.NET PROGRAMS\C#last\obj\Debug\C#last.exe
+D:\C#.NET PROGRAMS\C#last\obj\Debug\C#last.pdb
