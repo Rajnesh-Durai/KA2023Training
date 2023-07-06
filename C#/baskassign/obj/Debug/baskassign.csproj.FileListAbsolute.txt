@@ -1,0 +1,8 @@
+D:\C#.NET PROGRAMS\baskassign\bin\Debug\baskassign.exe.config
+D:\C#.NET PROGRAMS\baskassign\bin\Debug\baskassign.exe
+D:\C#.NET PROGRAMS\baskassign\bin\Debug\baskassign.pdb
+D:\C#.NET PROGRAMS\baskassign\obj\Debug\baskassign.csproj.AssemblyReference.cache
+D:\C#.NET PROGRAMS\baskassign\obj\Debug\baskassign.csproj.SuggestedBindingRedirects.cache
+D:\C#.NET PROGRAMS\baskassign\obj\Debug\baskassign.csproj.CoreCompileInputs.cache
+D:\C#.NET PROGRAMS\baskassign\obj\Debug\baskassign.exe
+D:\C#.NET PROGRAMS\baskassign\obj\Debug\baskassign.pdb
