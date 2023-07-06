@@ -1,0 +1,8 @@
+D:\C#.NET PROGRAMS\OOPS\bin\Debug\OOPS.exe.config
+D:\C#.NET PROGRAMS\OOPS\bin\Debug\OOPS.exe
+D:\C#.NET PROGRAMS\OOPS\bin\Debug\OOPS.pdb
+D:\C#.NET PROGRAMS\OOPS\obj\Debug\OOPS.csproj.AssemblyReference.cache
+D:\C#.NET PROGRAMS\OOPS\obj\Debug\OOPS.csproj.SuggestedBindingRedirects.cache
+D:\C#.NET PROGRAMS\OOPS\obj\Debug\OOPS.csproj.CoreCompileInputs.cache
+D:\C#.NET PROGRAMS\OOPS\obj\Debug\OOPS.exe
+D:\C#.NET PROGRAMS\OOPS\obj\Debug\OOPS.pdb

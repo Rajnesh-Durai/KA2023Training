@@ -1,0 +1,15 @@
+D:\C#.NET PROGRAMS\Generics_Delegates\obj\Debug\net6.0\Generics_Delegates.csproj.AssemblyReference.cache
+D:\C#.NET PROGRAMS\Generics_Delegates\obj\Debug\net6.0\Generics_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#.NET PROGRAMS\Generics_Delegates\obj\Debug\net6.0\Generics_Delegates.AssemblyInfoInputs.cache
+D:\C#.NET PROGRAMS\Generics_Delegates\obj\Debug\net6.0\Generics_Delegates.AssemblyInfo.cs
+D:\C#.NET PROGRAMS\Generics_Delegates\obj\Debug\net6.0\Generics_Delegates.csproj.CoreCompileInputs.cache
+D:\C#.NET PROGRAMS\Generics_Delegates\bin\Debug\net6.0\Generics_Delegates.exe
+D:\C#.NET PROGRAMS\Generics_Delegates\bin\Debug\net6.0\Generics_Delegates.deps.json
+D:\C#.NET PROGRAMS\Generics_Delegates\bin\Debug\net6.0\Generics_Delegates.runtimeconfig.json
+D:\C#.NET PROGRAMS\Generics_Delegates\bin\Debug\net6.0\Generics_Delegates.dll
+D:\C#.NET PROGRAMS\Generics_Delegates\bin\Debug\net6.0\Generics_Delegates.pdb
+D:\C#.NET PROGRAMS\Generics_Delegates\obj\Debug\net6.0\Generics_Delegates.dll
+D:\C#.NET PROGRAMS\Generics_Delegates\obj\Debug\net6.0\refint\Generics_Delegates.dll
+D:\C#.NET PROGRAMS\Generics_Delegates\obj\Debug\net6.0\Generics_Delegates.pdb
+D:\C#.NET PROGRAMS\Generics_Delegates\obj\Debug\net6.0\Generics_Delegates.genruntimeconfig.cache
+D:\C#.NET PROGRAMS\Generics_Delegates\obj\Debug\net6.0\ref\Generics_Delegates.dll
