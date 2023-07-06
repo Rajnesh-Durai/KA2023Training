@@ -1,0 +1,1 @@
+select * from stud_table1;
