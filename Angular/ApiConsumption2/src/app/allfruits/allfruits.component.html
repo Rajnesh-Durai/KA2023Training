@@ -1,0 +1,23 @@
+<p>allstudents works!</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Name</th>
+            <th scope="col">Section</th>
+            <th scope="col">Price</th>
+            <th>availableQuantity</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let student of fruits">
+            <td>{{student.productId}}</td>
+            <td>{{student.product}}</td>
+            <td>{{student.productSection}}</td>
+            <td>{{student.price}}</td>
+            <td>{{student.availableQuantity}}</td>
+        </tr>
+
+    </tbody>
+</table>

@@ -1,0 +1,26 @@
+<p>getby-id works!</p>
+<form [formGroup]="grp">
+    <input placeholder="Product ID" formControlName="id">
+    <button (click)="getPrdt()" >submit</button>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Name</th>
+            <th scope="col">Section</th>
+            <th scope="col">Price</th>
+            <th scope="col">availableQuantity</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>{{prdtlist.productId}}</td>
+            <td>{{prdtlist.product}}</td>
+            <td>{{prdtlist.productSection}}</td>
+            <td>{{prdtlist.price}}</td>
+            <td>{{prdtlist.availableQuantity}}</td>
+        </tr>
+
+    </tbody>
+</table>
