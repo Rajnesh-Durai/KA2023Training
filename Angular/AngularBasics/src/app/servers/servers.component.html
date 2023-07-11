@@ -1,0 +1,56 @@
+<p>servers works!</p>
+
+<label> Server Name: </label><br>
+<input type="text" (input)="onServerName($event)">
+<br>
+<br>
+
+<!-- ng-Template -->
+<p>{{ serverName }} </p>
+<p *ngIf="serverCreated=='Created'; else beforeServerCreation; else afterCreatedServer">Server Create Status : {{ serverCreated}}</p>
+<br>
+
+<ng-template #beforeServerCreation>Server Created Status : {{ serverCreated }}</ng-template>
+<ng-template #afterCreatedServer>Server Created Status : {{ serverCreated }}</ng-template>
+
+<p [ngStyle]="{backgroundColor : getColor()}">hii guys written in ngStyle format</p>
+
+<button class="btn btn-primary"[disabled]="serverCreateOptions" onclick="AddFn()">Click me</button>
+<p>Property Value: {{serverCreateOptions}}</p>
+<p>server is {{ serverStatus }}</p>
+
+<!-- <app-server/>
+<app-server/> -->
+<app-server *ngFor="let server of serversList"/>
+
+<!-- Switch In NG -->
+<label>Server Count: </label>
+<input type="text" [(ngModel)]="num"/>
+<br>
+
+<div [ngSwitch]="num">Server Count
+    <div *ngSwitchCase="'1'">One</div>
+    <div *ngSwitchCase="'2'">Two</div>
+    <div *ngSwitchCase="'3'">Three</div>
+    <div *ngSwitchCase="'4'">Four</div>
+    <div *ngSwitchDefault>Enter 1-4</div>
+</div>
+<br>
+<select id="serverSelected" [(ngModel)]="serverSelected">
+    <option *ngFor="let server of serverList;">{{server}}</option>
+</select>
+
+<p>{{ serverSelected }}</p>
+
+<div [ngSwitch]="serverSelected">
+    <p *ngSwitchCase="'S1'">One</p>
+    <p *ngSwitchCase="'S2'">Two</p>
+    <p *ngSwitchCase="'S3'">Three</p>
+    <p *ngSwitchCase="'S4'">Four</p>
+    <p *ngSwitchCase="''">Empty</p>
+    <p *ngSwitchDefault>This is default</p>
+</div>
+
+<!-- ------------------------------------------------------------------ -->
+
+

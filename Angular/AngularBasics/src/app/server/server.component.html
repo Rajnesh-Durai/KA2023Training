@@ -1,0 +1,7 @@
+
+<!-- <p [ngStyle]="{backgroundColor:getColor()}" [ngClass]="{onlineServer: serverName=='Online'}">server {{ getServerId() }} and {{ serverName }} is {{ serverStatus }}</p> -->
+
+<div *ngFor="let num in serverNum;let i=index"
+    [ngStyle]="{backgroundColor:i==0?'lightblue':'orange'}">
+<p>server with number {{num}} with id {{serverId}} and is currently {{serverStatus}}</p>
+</div>
