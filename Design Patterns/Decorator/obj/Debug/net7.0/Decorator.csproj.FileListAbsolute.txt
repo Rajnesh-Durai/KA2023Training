@@ -1,0 +1,15 @@
+D:\C#.NET PROGRAMS\Factory\Decorator\bin\Debug\net7.0\Decorator.exe
+D:\C#.NET PROGRAMS\Factory\Decorator\bin\Debug\net7.0\Decorator.deps.json
+D:\C#.NET PROGRAMS\Factory\Decorator\bin\Debug\net7.0\Decorator.runtimeconfig.json
+D:\C#.NET PROGRAMS\Factory\Decorator\bin\Debug\net7.0\Decorator.dll
+D:\C#.NET PROGRAMS\Factory\Decorator\bin\Debug\net7.0\Decorator.pdb
+D:\C#.NET PROGRAMS\Factory\Decorator\obj\Debug\net7.0\Decorator.csproj.AssemblyReference.cache
+D:\C#.NET PROGRAMS\Factory\Decorator\obj\Debug\net7.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#.NET PROGRAMS\Factory\Decorator\obj\Debug\net7.0\Decorator.AssemblyInfoInputs.cache
+D:\C#.NET PROGRAMS\Factory\Decorator\obj\Debug\net7.0\Decorator.AssemblyInfo.cs
+D:\C#.NET PROGRAMS\Factory\Decorator\obj\Debug\net7.0\Decorator.csproj.CoreCompileInputs.cache
+D:\C#.NET PROGRAMS\Factory\Decorator\obj\Debug\net7.0\Decorator.dll
+D:\C#.NET PROGRAMS\Factory\Decorator\obj\Debug\net7.0\refint\Decorator.dll
+D:\C#.NET PROGRAMS\Factory\Decorator\obj\Debug\net7.0\Decorator.pdb
+D:\C#.NET PROGRAMS\Factory\Decorator\obj\Debug\net7.0\Decorator.genruntimeconfig.cache
+D:\C#.NET PROGRAMS\Factory\Decorator\obj\Debug\net7.0\ref\Decorator.dll

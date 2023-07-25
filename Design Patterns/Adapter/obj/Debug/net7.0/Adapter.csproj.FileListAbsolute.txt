@@ -1,0 +1,15 @@
+D:\C#.NET PROGRAMS\Factory\Adapter\bin\Debug\net7.0\Adapter.exe
+D:\C#.NET PROGRAMS\Factory\Adapter\bin\Debug\net7.0\Adapter.deps.json
+D:\C#.NET PROGRAMS\Factory\Adapter\bin\Debug\net7.0\Adapter.runtimeconfig.json
+D:\C#.NET PROGRAMS\Factory\Adapter\bin\Debug\net7.0\Adapter.dll
+D:\C#.NET PROGRAMS\Factory\Adapter\bin\Debug\net7.0\Adapter.pdb
+D:\C#.NET PROGRAMS\Factory\Adapter\obj\Debug\net7.0\Adapter.csproj.AssemblyReference.cache
+D:\C#.NET PROGRAMS\Factory\Adapter\obj\Debug\net7.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#.NET PROGRAMS\Factory\Adapter\obj\Debug\net7.0\Adapter.AssemblyInfoInputs.cache
+D:\C#.NET PROGRAMS\Factory\Adapter\obj\Debug\net7.0\Adapter.AssemblyInfo.cs
+D:\C#.NET PROGRAMS\Factory\Adapter\obj\Debug\net7.0\Adapter.csproj.CoreCompileInputs.cache
+D:\C#.NET PROGRAMS\Factory\Adapter\obj\Debug\net7.0\Adapter.dll
+D:\C#.NET PROGRAMS\Factory\Adapter\obj\Debug\net7.0\refint\Adapter.dll
+D:\C#.NET PROGRAMS\Factory\Adapter\obj\Debug\net7.0\Adapter.pdb
+D:\C#.NET PROGRAMS\Factory\Adapter\obj\Debug\net7.0\Adapter.genruntimeconfig.cache
+D:\C#.NET PROGRAMS\Factory\Adapter\obj\Debug\net7.0\ref\Adapter.dll
